@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="1css.css">
+    <title>NoMyAnimeList</title>
 </head>
 <body>
         <div>
@@ -106,9 +107,29 @@
                     <td>Сёнен, Экшен, Приключения, Фэнтези, Супер сила</td>
                     <td>9.04</td>
                  </tr>
-        </div>
         <div>
-
+           <script>
+      alert("Сәлем!");
+    </script>
+          <script>
+     alert("Сенің браузерің JavaScript қабылдайды!!!!!!!");
+    </script>
         </div>
+    <div>
+            <script>
+              let sum = 5 + 13;
+              console.log(sum);
+
+              let su = 7 + 21;
+              console.log(su);
+              
+              let suu = 10 + 100;
+              console.log(suu);
+              
+              let ss = 1 + 100;
+              console.log(ss);
+      
+            </script>
+    </div>
 </body>
 </html>
